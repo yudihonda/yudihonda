@@ -19,7 +19,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://alsiam.com">Yudi</a></b>
         </samp>
 </h3>
 
@@ -27,7 +27,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application student from <b>Brazil</b> 」
     <br>
     <br>
   </samp>
@@ -37,7 +37,7 @@
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/yudi-kenzo-22716725a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
@@ -46,14 +46,14 @@
  <a href="https://twitter.com/_alsiam" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_alsiam" target="_blank">
+ <a href="https://www.instagram.com/yk_boru/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
 </p>
 <br />
 
 <!-- About Section -->
- # Sobre mim
+ # About me
  
 <p>
  <img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpuY3A5dTMyaGdscXpydzd4eXU3ZHFtbmRuYjExd3k0d285dmp6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EPJBDmeq1oikzykhjO/giphy.gif" alt="oa" />
@@ -68,7 +68,7 @@
 <br/>
 <br/>
 
-## Tecnologias e Ferramentas
+## Use to Code
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
