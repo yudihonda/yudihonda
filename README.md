@@ -58,9 +58,9 @@
 <p>
  <img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpuY3A5dTMyaGdscXpydzd4eXU3ZHFtbmRuYjExd3k0d285dmp6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EPJBDmeq1oikzykhjO/giphy.gif" alt="oa" />
   
- ☂️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- 🔮 &emsp; Love to writing code and learning new features<br/><br/>
- 🟪 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
+ ☂️ &emsp; I like coding and math <br/><br/>
+ 🔮 &emsp; my first language learned was java, in a way not recommended<br/><br/>
+ 🟪 &emsp; contact me anytime: yudihonda4661@gmail.com<br/><br/>
  🍇 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)<br/><br/>
  🟣 &emsp; Love to writing code and learning new features
 </p>
