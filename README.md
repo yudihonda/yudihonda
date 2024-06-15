@@ -56,7 +56,7 @@
  # About me
  
 <p>
- <img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpuY3A5dTMyaGdscXpydzd4eXU3ZHFtbmRuYjExd3k0d285dmp6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EPJBDmeq1oikzykhjO/giphy.gif" alt="oa" />
+ <img align="right" width="250" src="https://i.pinimg.com/originals/be/33/5f/be335fd0dc86f5fda4c98e057a5e322f.gif" alt="oa" />
   
  ☂️ &emsp; I like coding and sharing knowledge.<br/><br/>
  🔮 &emsp; my first language learned was java.<br/><br/>
