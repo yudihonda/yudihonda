@@ -50,11 +50,11 @@
 <p>
  <img align="right" width="250" src="https://i.pinimg.com/originals/be/33/5f/be335fd0dc86f5fda4c98e057a5e322f.gif" alt="oa" />
   
- ☂️ &emsp; I like coding and sharing knowledge.<br/><br/>
- 🔮 &emsp; my first language learned was java.<br/><br/>
- 🟪 &emsp; currently studying HTML and CSS, with plans to also study Javascript.<br/><br/>
+ ☂️ &emsp; xxx.<br/><br/>
+ 🔮 &emsp; xxx.<br/><br/>
+ 🟪 &emsp; xxx.<br/><br/>
  🍇 &emsp; math (</3).<br/><br/>
- 🟣 &emsp; Love to learning new features
+ 🟣 &emsp; xxx
 </p>
 <br/>
 <br/>
