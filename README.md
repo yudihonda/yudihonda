@@ -52,8 +52,8 @@
   
  ☂️ &emsp; Atualmente no 5° Semestre de ADS<br/><br/>
  🔮 &emsp; Preferência por programação front-end<br/><br/>
- 🟪 &emsp; Interesse em aprender cada vez mais e futuramente me especializar em alguma tecnologia<br/><br/>
- 🍇 &emsp; math (</3).<br/><br/>
+ 🟪 &emsp; Interesse em aprender cada vez mais tecnologias<br/><br/>
+
 </p>
 <br/>
 <br/>
