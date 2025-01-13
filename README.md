@@ -27,7 +27,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web application student 」
+    「 Estudante de aplicações web 」
     <br>
     <br>
   </samp>
