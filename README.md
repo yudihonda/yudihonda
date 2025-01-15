@@ -48,7 +48,7 @@
  # About me
  
 <p>
- <img align="right" width="250" src="https://i.pinimg.com/originals/be/33/5f/be335fd0dc86f5fda4c98e057a5e322f.gif" alt="oa" />
+ <img align="right" width="250" src="" alt="oa" />
   
  ☂️ &emsp; Atualmente no 5° Semestre de ADS<br/><br/>
  🔮 &emsp; Preferência por programação front-end<br/><br/>
