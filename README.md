@@ -1,6 +1,6 @@
 
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; hey there!, i am
                 <b><a target="_blank" href=# >Yudi</a></b>
         </samp>
 </h3>
