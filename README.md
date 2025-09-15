@@ -1,7 +1,7 @@
 
 <h3 align="center">
         <samp>&gt; hey there!, i am
-                <b><a target="_blank" href=# >Yudi</a></b>
+                <b><a target="_blank" href=# >yudi</a></b>
         </samp>
 </h3>
 
